@@ -2,4 +2,4 @@
 revisão 1
 
 if x=0
-	do this y
+	do this y =x
